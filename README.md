@@ -9,3 +9,5 @@ The back side has the answer to the question.
 
 Cloze type has the front side list a statement with a missing word which the user has to guess.
 The back side has the missing word to the statement.
+
+This node.js app is also designed to teach how to use constructors.
